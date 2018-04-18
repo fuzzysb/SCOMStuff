@@ -5,7 +5,7 @@ MP.ManagementPackSystemName,
 MET.ManagedEntityTypeSystemName, 
 PropertySystemName, 
 D.DiscoverySystemName, D.DiscoveryDefaultName, 
-MET1.ManagedEntityTypeSystemName As ‘TargetTypeSystemName’, MET1.ManagedEntityTypeDefaultName 'TargetTypeDefaultName', 
+MET1.ManagedEntityTypeSystemName As 'TargetTypeSystemName', MET1.ManagedEntityTypeDefaultName 'TargetTypeDefaultName', 
 ME.Path, ME.Name, 
 C.OldValue, C.NewValue, C.ChangeDateTime 
 from dbo.vManagedEntityPropertyChange C 
